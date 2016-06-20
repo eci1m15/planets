@@ -1,9 +1,5 @@
-planet is empty
-
-<<<<<<< HEAD
-We are still mars
-=======
-fsfsfsfsfsfsfWhere
-
-Where are we?
->>>>>>> 41377059693e700cce91b58d645ee15447f1a424
+See that the planet is empty
+- We are still in the mars
+- Alien language is "fsfsfsfsfsfsfWhere"
+- Where are we? 
+- I don't know..
