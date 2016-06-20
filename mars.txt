@@ -1,12 +1,3 @@
-planet is empty
+Lets talk about Jupiter now
 
-<<<<<<< HEAD
-
-JT- We are still in  mars
-=======
-fsfsfsfsfsfsfWhere
-
-JT- i dont understand
-
-JT- Where are we?
->>>>>>> 41377059693e700cce91b58d645ee15447f1a424
+Mars and Jupiter not allign
