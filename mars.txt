@@ -1,9 +1,12 @@
 planet is empty
 
 <<<<<<< HEAD
-We are still mars
+
+JT- We are still in  mars
 =======
 fsfsfsfsfsfsfWhere
 
-Where are we?
+JT- i dont understand
+
+JT- Where are we?
 >>>>>>> 41377059693e700cce91b58d645ee15447f1a424
